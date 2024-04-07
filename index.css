@@ -1,0 +1,37 @@
+
+
+.faixa{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin: 2%;
+}
+
+
+.flexibilidade{
+    background-color: rgb(179, 200, 238);
+    display: flex;
+    flex-wrap: wrap;
+    width: 56%;
+    height: 100%;
+    align-content: space-between;
+    justify-content: space-between;
+    margin: 0 auto;
+    border: solid 1px #333333;
+}
+
+
+.flexibilidade img{
+width: 30%;
+height: 30%;
+text-align: center;
+padding: 5px;
+
+
+}
+
+label {
+
+    display: inline-block;
+    width: 90px;
+    
+}
